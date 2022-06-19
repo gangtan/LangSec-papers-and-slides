@@ -1,0 +1,14 @@
+%%[ ProductName: Distiller ]%%
+%%[ Warning: HelveticaNeue-Bold not found, using Font Substitution. Font cannot be embedded. ]%%
+%%[Page: 1]%%
+HelveticaNeue not found, using Courier.
+%%[ Error: invalidfont; OffendingCommand: xshow ]%%
+
+Stack:
+[146 51 102 102 101 101 48 139 98 41 105 41 92 51 52 47 102 98 0]
+(	
+)
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
